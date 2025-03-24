@@ -1,11 +1,11 @@
-# LinkedIn Layoff Post Scraper
+# LinkedIn Layoff Scraper
 
 An intelligent web scraper that uses AI to find and collect LinkedIn profile URLs of people who have posted about being laid off. This tool leverages advanced language models and browser automation to efficiently search and extract relevant information from LinkedIn.
 
 ## Features
 
 - 🔍 Automated LinkedIn search for layoff-related posts
-- 🤖 AI-powered content understanding using GPT-4
+- 🤖 AI-powered content understanding using GPT-4o
 - 🌐 Browser automation for seamless interaction
 - 📊 Structured data output in JSON format
 - 🔄 Intelligent navigation and profile extraction
